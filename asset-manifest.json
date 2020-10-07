@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/programiz-challenges/static/css/main.f152fa31.chunk.css",
+    "main.js": "/programiz-challenges/static/js/main.f8f302ad.chunk.js",
+    "main.js.map": "/programiz-challenges/static/js/main.f8f302ad.chunk.js.map",
+    "runtime-main.js": "/programiz-challenges/static/js/runtime-main.ffbbd604.js",
+    "runtime-main.js.map": "/programiz-challenges/static/js/runtime-main.ffbbd604.js.map",
+    "static/js/2.72763575.chunk.js": "/programiz-challenges/static/js/2.72763575.chunk.js",
+    "static/js/2.72763575.chunk.js.map": "/programiz-challenges/static/js/2.72763575.chunk.js.map",
+    "index.html": "/programiz-challenges/index.html",
+    "precache-manifest.aa29a68c80cf4a27e6361673f438889b.js": "/programiz-challenges/precache-manifest.aa29a68c80cf4a27e6361673f438889b.js",
+    "service-worker.js": "/programiz-challenges/service-worker.js",
+    "static/css/main.f152fa31.chunk.css.map": "/programiz-challenges/static/css/main.f152fa31.chunk.css.map",
+    "static/js/2.72763575.chunk.js.LICENSE.txt": "/programiz-challenges/static/js/2.72763575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffbbd604.js",
+    "static/js/2.72763575.chunk.js",
+    "static/css/main.f152fa31.chunk.css",
+    "static/js/main.f8f302ad.chunk.js"
+  ]
+}
